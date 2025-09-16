@@ -2,10 +2,13 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+key
 # C extensions
 *.so
-
+config.json
+迅通网站
+__sync/
+sync/
 # Distribution / packaging
 .Python
 build/
